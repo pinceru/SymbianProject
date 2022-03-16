@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SymbianProject</string>
+    <string name="viewCadastro">CADASTRO DE USUÁRIO</string>
+    <string name="nome">NOME</string>
+    <string name="sobrenome">SOBRENOME</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <string name="viewCadastroEndereco">CADASTRO DE ENDEREÇO</string>
+    <string name="cep">CEP</string>
+    <string name="numero">NÚMERO</string>
+    <string name="cancelar">CANCELAR</string>
+    <string name="cadUsuario">CADASTRAR</string>
+    <string name="cadastro_ok">CADASTRO OK</string>
+    <string name="cadastro_erro">ERRO AO CADASTRAR</string>
+    <string name="complemento">COMPLEMENTO</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/menuComplet"
+        android:title="COMPLETAR CADASTRO"/>
+
+    <item android:id="@+id/menuOut"
+        android:title="SAIR"/>
+
+</menu>
