@@ -2,7 +2,7 @@
 
 ## Telas de cadastro para um app e SQLite.
 
-### Projeto proposto pelo professor Cristiano, para a aula de androide.
+### Projeto proposto pelo professor Cristiano, para a aula de android.
 ### A situação de aprendizagem consiste em persistir dados em um dispositivo móvel e aplicar conceitos de POO em programação mobile.
 
 ## Ambiente
