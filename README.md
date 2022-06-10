@@ -12,7 +12,7 @@
 #### O usuário pode realizar o seu cadastro no aplicatiovo e cadastrar um livro.
 
 ## Requisitos:
-##### - Emulador do Android Studio
+##### - `Emulador do Android Studio`
 
 ## Instruções:
 #### Baixar os arquivos do repositório e importar no Android Studio.
